@@ -1,0 +1,6 @@
+Presence of this file tells GitHub Pages to skip Jekyll and serve the repo as
+static files. Without it the build fails immediately (duration 0, "Page build
+failed") and Pages keeps serving the last good commit, so new images 404 while
+older dates still work. Cost us Thursday's images on 2026-08-06.
+
+Do not delete.
